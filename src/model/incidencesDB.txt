@@ -1,0 +1,232 @@
+=========================================================================================================
+
+INDIDENCIA 0: No hay médicos.
+	- Tipo: Edificio público (Centro de salud).
+	- Fecha de notificación: 10/12/2023
+	- Fecha de detección: 12/12/2023
+
+	================ DATOS DEL LUGAR =============================
+
+	- Lugar: Chantada.	- Coordenadas geográficas: latitud 12.234567; longitud -23.456789.
+	- Ruta absoluta de la imagen en el sistema de archivos: C:\Users\Usuario\Desktop\1701937276848.jpg.	
+
+	================ DESCRIPCIÓN DE LA INCIDENCIA ================
+
+	- La Xunta de Galicia no quiere poner médicos.
+
+	================ ENCARGADOS DE LA GESTIÓN ====================
+
+	- RESPONSABLE:
+		Cristian Varela Casas
+		- Teléfono: 654980765	- Correo electrónico: cris@email.com
+
+	- SUPERVISORES:
+		1º.- Paula Míguez Conde
+		   - Teléfono: 654123123	- Correo electrónico: paula@mail.com
+
+	================ TAREAS DE NOTIFICACIÓN ======================
+
+		1ª.- Contratar a médicos.
+		2ª.- Despedir al PResidente de la Xunta.
+
+=========================================================================================================
+=========================================================================================================
+
+INDIDENCIA 0:
+	- Tipo: Iluminación
+	- Fecha de notificación: --no consta--
+	- Fecha de detección: --no consta--
+
+	================ DATOS DEL LUGAR =============================
+
+	- Lugar: --no consta--	
+	- Ruta absoluta de la imagen en el sistema de archivos: --no consta--	
+
+	================ DESCRIPCIÓN DE LA INCIDENCIA ================
+
+	--no consta--
+
+	================ ENCARGADOS DE LA GESTIÓN ====================
+
+	- RESPONSABLE:
+		--no consta--
+	- SUPERVISORES:
+		--no consta--
+
+	================ TAREAS DE NOTIFICACIÓN ======================
+
+		--no consta--
+
+=========================================================================================================
+=========================================================================================================
+
+INDIDENCIA 0: No hay luz.
+	- Tipo: Edificio público (Biblioteca).
+	- Fecha de notificación: 10/12/2023
+	- Fecha de detección: 17/12/2023
+
+	================ DATOS DEL LUGAR =============================
+
+	- Lugar: Biblioteca de Chantada.	- Coordenadas geográficas: latitud 23.098765; longitud -4.765432.
+	- Ruta absoluta de la imagen en el sistema de archivos: C:\Users\Usuario\Desktop\1701937276848.jpg.	
+
+	================ DESCRIPCIÓN DE LA INCIDENCIA ================
+
+	- Debido a las malas condiciones del edificio en cuanto a iluminación y temperatura, ya no van estudiantes.
+
+	================ ENCARGADOS DE LA GESTIÓN ====================
+
+	- RESPONSABLE:
+		Cristian Varela Casas.
+		- Teléfono: --no consta--	- Correo electrónico: cris@emial.com
+
+	- SUPERVISORES:
+		--no consta--
+
+	================ TAREAS DE NOTIFICACIÓN ======================
+
+		1ª.- Poner buena iluminación.
+		2ª.- Poner calefacción para invierno.
+		3ª.- Poner aire acondicionado para verano.
+
+=========================================================================================================
+=========================================================================================================
+
+INDIDENCIA 0:
+	- Tipo: Iluminación
+	- Fecha de notificación: 10/12/2023
+	- Fecha de detección: --no consta--
+
+	================ DATOS DEL LUGAR =============================
+
+	- Lugar: --no consta--	
+	- Ruta absoluta de la imagen en el sistema de archivos: --no consta--	
+
+	================ DESCRIPCIÓN DE LA INCIDENCIA ================
+
+	--no consta--
+
+	================ ENCARGADOS DE LA GESTIÓN ====================
+
+	- RESPONSABLE:
+		--no consta--
+	- SUPERVISORES:
+		--no consta--
+
+	================ TAREAS DE NOTIFICACIÓN ======================
+
+		--no consta--
+
+=========================================================================================================
+=========================================================================================================
+
+INDIDENCIA 0:
+	- Tipo: Iluminación
+	- Fecha de notificación: 10/12/2023
+	- Fecha de detección: --no consta--
+
+	================ DATOS DEL LUGAR =============================
+
+	- Lugar: --no consta--	
+	- Ruta absoluta de la imagen en el sistema de archivos: --no consta--	
+
+	================ DESCRIPCIÓN DE LA INCIDENCIA ================
+
+	--no consta--
+
+	================ ENCARGADOS DE LA GESTIÓN ====================
+
+	- RESPONSABLE:
+		--no consta--
+	- SUPERVISORES:
+		--no consta--
+
+	================ TAREAS DE NOTIFICACIÓN ======================
+
+		--no consta--
+
+=========================================================================================================
+=========================================================================================================
+
+INDIDENCIA 0:
+	- Tipo: Vías públicas
+	- Fecha de notificación: --no consta--
+	- Fecha de detección: --no consta--
+
+	================ DATOS DEL LUGAR =============================
+
+	- Lugar: --no consta--	
+	- Ruta absoluta de la imagen en el sistema de archivos: --no consta--	
+
+	================ DESCRIPCIÓN DE LA INCIDENCIA ================
+
+	--no consta--
+
+	================ ENCARGADOS DE LA GESTIÓN ====================
+
+	- RESPONSABLE:
+		--no consta--
+	- SUPERVISORES:
+		--no consta--
+
+	================ TAREAS DE NOTIFICACIÓN ======================
+
+		--no consta--
+
+=========================================================================================================
+=========================================================================================================
+
+INDIDENCIA 0:
+	- Tipo: Iluminación
+	- Fecha de notificación: --no consta--
+	- Fecha de detección: --no consta--
+
+	================ DATOS DEL LUGAR =============================
+
+	- Lugar: --no consta--	
+	- Ruta absoluta de la imagen en el sistema de archivos: --no consta--	
+
+	================ DESCRIPCIÓN DE LA INCIDENCIA ================
+
+	--no consta--
+
+	================ ENCARGADOS DE LA GESTIÓN ====================
+
+	- RESPONSABLE:
+		--no consta--
+	- SUPERVISORES:
+		--no consta--
+
+	================ TAREAS DE NOTIFICACIÓN ======================
+
+		--no consta--
+
+=========================================================================================================
+=========================================================================================================
+
+INDIDENCIA 0: nA.
+	- Tipo: Edificio público (Centro de salud).
+	- Fecha de notificación: 28/12/2023
+	- Fecha de detección: --no consta--
+
+	================ DATOS DEL LUGAR =============================
+
+	- Lugar: --no consta--	
+	- Ruta absoluta de la imagen en el sistema de archivos: --no consta--	
+
+	================ DESCRIPCIÓN DE LA INCIDENCIA ================
+
+	--no consta--
+
+	================ ENCARGADOS DE LA GESTIÓN ====================
+
+	- RESPONSABLE:
+		--no consta--
+	- SUPERVISORES:
+		--no consta--
+
+	================ TAREAS DE NOTIFICACIÓN ======================
+
+		--no consta--
+
+=========================================================================================================
